@@ -1,6 +1,8 @@
 {
-  "Name": "My Dataset (placeholder)",
-  "BIDSVersion": "1.8.0",
-  "DatasetType": "raw",
-  "Authors": ["Letitia Ho"]
+    "Name": "FFR-active-listening",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "[Unspecified]"
+    ]
 }
