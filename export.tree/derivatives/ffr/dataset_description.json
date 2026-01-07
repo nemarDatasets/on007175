@@ -1,0 +1,7 @@
+{
+    "Name": "preprocess_ffr",
+    "PipelineDescription": {
+        "Name": "preprocess_ffr"
+    },
+    "BIDSVersion": "1.6.0"
+}
