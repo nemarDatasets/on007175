@@ -1,10 +1,10 @@
 {
-    "Name": "FFR-active-listening",
-    "BIDSVersion": "1.6.0",
-    "DatasetType": "raw",
-    "Authors": [
-        "[Unspecified]"
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007175.v1.0.1",
-    "License": "CC0"
+  "Name": "FFR-active-listening",
+  "BIDSVersion": "1.6.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "[Unspecified]"
+  ],
+  "DatasetDOI": "10.82901/nemar.on007175",
+  "License": "CC0"
 }
