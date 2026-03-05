@@ -1,20 +1,60 @@
 {
   "version": "2.0",
-  "dataset_id": "on007175",
-  "source": "openneuro",
-  "source_id": "ds007175",
+  "pipeline_stage": "enriched",
   "title": "FFR-active-listening",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "[Unspecified]": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds007175.v1.0.1",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on007175",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on007175",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
   ],
-  "pipeline_stage": "seeded"
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "auditory processing"
+    },
+    {
+      "term": "frequency-following response"
+    },
+    {
+      "term": "active listening"
+    },
+    {
+      "term": "speech processing"
+    },
+    {
+      "term": "neural encoding"
+    },
+    {
+      "term": "brainstem"
+    },
+    {
+      "term": "auditory brainstem response"
+    }
+  ],
+  "description": "This dataset contains electroencephalography (EEG) recordings from participants engaged in active listening tasks designed to elicit frequency-following responses (FFR). The FFR is a neural measure of auditory brainstem encoding that reflects the brain's ability to track acoustic features of speech and other complex sounds. This dataset supports research on auditory processing mechanisms, neural encoding of speech, and individual differences in listening abilities.",
+  "source_hash": "622b2033a5b07605d98acdb2d0b1a71f7c310227d4ef7613085678b19bda381f"
 }
